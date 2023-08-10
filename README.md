@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
-- ⚡ Fun fact: In my free time, I enjoy experimenting with cooking recipes and creating delicious dishes. I believe coding and cooking share a similar creative process!  
+- ⚡ Fun fact: I enjoy experimenting with cooking recipes and creating delicious dishes in my free time. I believe coding and cooking share a similar creative process!  
   
 
 <br/>  
